@@ -3,7 +3,7 @@ const mineflayer = require('mineflayer')
 const {host} = require('./config.json')
 const {ip} = require('./config.json')
 
-name = "Test"
+name = "Name"
 
 time_destroy_server = 1000
 
